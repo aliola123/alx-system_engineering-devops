@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aldirname/boot
+ls -a 
