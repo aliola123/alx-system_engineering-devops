@@ -1,2 +1,2 @@
 #!/bin/bash
-if[ls -l hello = "guilluame"]; then chown betty hello
+if[ls -l hello = "guilluame"] then chown betty hello
